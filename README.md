@@ -1,6 +1,6 @@
 # Hello Kitty 🐱🎀
 
-![Hello Kitty](https://upload.wikimedia.org/wikipedia/en/0/05/Hello_Kitty_character_portrait.png)
+![Hello Kitty](https://pbs.twimg.com/media/Gd8Z-OrbQAAxzNS.jpg)
 
-> Welcome to my GitHub! 💻🌸  
-> Cute, but powerful! 😼✨
+> Welcome to my GitHub! 💖  
+> Cute outside, coder inside 😼💻
