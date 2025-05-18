@@ -14,8 +14,12 @@ I craft beautiful user interfaces with **JavaScript** and make the web come aliv
 ---
 
 🌈 **Languages I speak:**  
-- **Frontend:** JavaScript, React  
-- **Backend:** Node.js  
+- **Frontend:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+- **Backend:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
 ---
 
@@ -27,8 +31,8 @@ I craft beautiful user interfaces with **JavaScript** and make the web come aliv
 ---
 
 📫 **Contact Me:**  
-- 💬 [Facebook – ThDziii](https://www.facebook.com/yourprofile)  
-- 📧 Email: thaonguyen07112004@gmail.com | NguyenNLTSE183870@fpt.edu.vn  
+- 💬 [Facebook – ThDziii]([https://www.facebook.com/yourprofile](https://www.facebook.com/thdzixinh/))  
+- 📧 Email: thaovimk0902@gmail.com | vinvtse183117@fpt.edu.vn
 
 ---
 
