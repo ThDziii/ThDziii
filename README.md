@@ -14,9 +14,11 @@ I craft beautiful user interfaces with **JavaScript** and make the web come aliv
 ---
 
 🌈 **Languages I speak:**  
+
 - **Frontend:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&logoColor=61DAFB)  
+  ![Ant Design](https://img.shields.io/badge/-AntDesign-1677FF?style=flat&logo=ant-design&logoColor=white)  
+  ![MUI](https://img.shields.io/badge/-MUI-1976D2?style=flat&logo=mui&logoColor=white)  
 
 - **Backend:**  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
