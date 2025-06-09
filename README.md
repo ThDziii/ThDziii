@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=ThDziii&fontSize=80&fontColor=white&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Pink%20Code%20Princess&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=ThDziii&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Pink%20Code%20Princess&descAlignY=60&descAlign=50)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 🌸 ✧･ﾟ: *✧･ﾟ:* About Me *:･ﾟ✧*:･ﾟ✧ 🌸
+## 🌸 About Me 🌸
 
 </div>
 
@@ -61,7 +61,7 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
-## 🎀 ･ﾟ✧*:･ﾟ✧ Tech Stack ✧ﾟ･: *✧･ﾟ 🎀
+## 🎀 Tech Stack 🎀
 
 ### ✨ Frontend Magic ✨
 
@@ -107,7 +107,7 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
-## 📊 ･ﾟ✧*:･ﾟ✧ GitHub Analytics ✧ﾟ･: *✧･ﾟ 📊
+## 📊 GitHub Analytics 📊
 
 </div>
 
@@ -134,7 +134,7 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
-## 🌈 ･ﾟ✧*:･ﾟ✧ Connect With Me ✧ﾟ･: *✧･ﾟ 🌈
+## 🌈 Connect With Me 🌈
 
 </div>
 
@@ -161,7 +161,7 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
-## 🎀 ･ﾟ✧*:･ﾟ✧ Fun Facts About Me ✧ﾟ･: *✧･ﾟ 🎀
+## 🎀 Fun Facts About Me 🎀
 
 </div>
 
@@ -200,7 +200,7 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
-## 🌸 ･ﾟ✧*:･ﾟ✧ What I'm Up To ✧ﾟ･: *✧･ﾟ 🌸
+## 🌸 What I'm Up To 🌸
 
 </div>
 
@@ -242,6 +242,6 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=Keep%20coding%20cutely!&fontSize=24&fontColor=white&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=Keep%20coding%20cutely!&fontSize=24&fontColor=000000&animation=fadeIn)
 
 </div>
