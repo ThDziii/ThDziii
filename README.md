@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=200&section=header&text=ThDziii&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Pink%20Code%20Princess&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=ThDziii&fontSize=80&fontColor=white&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Pink%20Code%20Princess&descAlignY=60&descAlign=50)
 
 </div>
 
@@ -39,32 +39,19 @@
 </td>
 <td width="65%">
 
-```javascript
-class ThDziii extends FrontendDeveloper {
-  constructor() {
-    super();
-    this.name = "ThDziii";
-    this.role = "Frontend Developer";
-    this.language_spoken = ["vi_VN", "en_US"];
-    this.aesthetic = "kawaii && professional";
-  }
+### 💖 Hello, I'm ThDziii! 💖
 
-  sayHi() {
-    console.log("Thanks for dropping by, hope you find some of my work interesting.");
-  }
+**Frontend Developer** who believes that code can be both beautiful and functional! ✨
 
-  getPersonality() {
-    return {
-      vibes: ["✨ Magical", "💖 Adorable", "🎀 Creative"],
-      loves: ["Pink everything", "Clean code", "Cute UIs"],
-      motto: "Making the web beautiful, one pink pixel at a time!"
-    };
-  }
-}
+I specialize in creating **adorable user interfaces** with modern web technologies, bringing kawaii vibes to every project I touch.
 
-const me = new ThDziii();
-me.sayHi();
-```
+**My Philosophy:** *"Making the web beautiful, one pink pixel at a time!"*
+
+**What drives me:**
+- 🌸 Creating clean, elegant code
+- 💕 Designing cute and functional UIs  
+- ✨ Solving problems creatively
+- 🎀 Spreading pink vibes across the digital world
 
 </td>
 </tr>
@@ -82,12 +69,12 @@ me.sayHi();
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=FF69B4)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=FFB6C1)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=FF1493)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FF69B4)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=FFB6C1)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&color=FF1493)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-FF1493?style=for-the-badge&logo=sass&logoColor=white)
 
 </div>
 
@@ -95,11 +82,11 @@ me.sayHi();
 
 ### 🌸 UI/UX Frameworks 🌸
 
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&color=FF69B4)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&color=FFB6C1)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=FF1493)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=FF69B4)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&color=FFB6C1)
+![Material-UI](https://img.shields.io/badge/Material_UI-FF69B4?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-FFB6C1?style=for-the-badge&logo=antdesign&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FF1493?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-FFB6C1?style=for-the-badge&logo=styled-components&logoColor=white)
 
 </div>
 
@@ -107,12 +94,12 @@ me.sayHi();
 
 ### 💻 Tools & Environment 💻
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=FF69B4)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=FFB6C1)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=FF1493)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF69B4)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=FFB6C1)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=FF1493)
+![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-FFB6C1?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -126,14 +113,14 @@ me.sayHi();
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThDziii&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=DEG,0d1117,1a0d1a&border_color=FF69B4&border_radius=15" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThDziii&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThDziii&theme=radical&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&background=0d1117&border=FF69B4&border_radius=15" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThDziii&layout=compact&theme=radical&title_color=FF69B4&text_color=FF1493&bg_color=DEG,0d1117,1a0d1a&border_color=FF69B4&border_radius=15&hide_border=false" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThDziii&layout=compact&theme=radical&title_color=FF69B4&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15" alt="Top Languages" />
 
 </div>
 
@@ -154,19 +141,19 @@ me.sayHi();
 <div align="center">
 
 <a href="https://www.facebook.com/thdzixinh/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=FF69B4" alt="Facebook" /></a>
+<img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <a href="mailto:thaovimk0902@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FFB6C1" alt="Gmail" /></a>
+<img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <a href="mailto:vinvtse183117@fpt.edu.vn">
-<img src="https://img.shields.io/badge/FPT_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=FF1493" alt="FPT Email" /></a>
+<img src="https://img.shields.io/badge/FPT_Email-FF1493?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="FPT Email" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=FF69B4" alt="Discord" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFB6C1" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white&color=FF1493" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 
 </div>
 
@@ -184,12 +171,12 @@ me.sayHi();
 
 ### 💖 Personal Vibes 💖
 
-🌸 **Favorite Color:** Pink (shocking, right?) <br/>
+🌸 **Favorite Color:** Pink (obviously!) <br/>
 🎵 **Coding Soundtrack:** K-pop & Lo-fi beats <br/>
 ☕ **Daily Fuel:** Pink latte & bubble tea <br/>
-🎮 **After Work:** Cute indie games & UI design <br/>
+🎮 **After Hours:** Cute indie games & UI design <br/>
 🐱 **Spirit Animal:** Hello Kitty forever! <br/>
-✨ **Life Goal:** Making the entire web kawaii! <br/>
+✨ **Life Mission:** Making the entire web kawaii! <br/>
 
 </td>
 <td align="center" width="50%">
@@ -198,12 +185,12 @@ me.sayHi();
 
 ### 🌈 Developer Facts 🌈
 
-💻 **Code Style:** Clean, pretty, and pink <br/>
+💻 **Code Style:** Clean, elegant, and pink <br/>
 🎨 **Design Philosophy:** Cute meets functional <br/>
-🚀 **Current Focus:** React & TypeScript <br/>
-📚 **Always Learning:** New UI/UX trends <br/>
+🚀 **Current Focus:** React & TypeScript mastery <br/>
+📚 **Always Learning:** Latest UI/UX trends <br/>
 🎯 **Dream Project:** Pink-themed design system <br/>
-💝 **Motto:** "Beauty in every bracket!" <br/>
+💝 **Developer Motto:** "Beauty in every bracket!" <br/>
 
 </td>
 </tr>
@@ -213,22 +200,29 @@ me.sayHi();
 
 <div align="center">
 
-## 🌸 ･ﾟ✧*:･ﾟ✧ Current Status ✧ﾟ･: *✧･ﾟ 🌸
+## 🌸 ･ﾟ✧*:･ﾟ✧ What I'm Up To ✧ﾟ･: *✧･ﾟ 🌸
 
 </div>
 
 <div align="center">
 
-```javascript
-const currentlyDoing = {
-  🔭 workingOn: "Building adorable React components",
-  🌱 learning: "Advanced TypeScript patterns",
-  👯 collaborating: "Open source UI libraries",
-  💬 askMeAbout: "React, JavaScript, CSS animations",
-  📫 reachMe: "thaovimk0902@gmail.com",
-  ⚡ funFact: "I debug with pink rubber duck 🦆💕"
-};
-```
+### 💖 Currently Working On 💖
+🔭 **Building adorable React components that make developers smile**
+
+### 🌱 Currently Learning 🌱
+**Advanced TypeScript patterns and modern CSS animations**
+
+### 👯 Looking to Collaborate On 👯
+**Open source UI libraries and kawaii web projects**
+
+### 💬 Ask Me About 💬
+**React, JavaScript, CSS animations, and making code pretty!**
+
+### 📫 How to Reach Me 📫
+**Drop me a line at thaovimk0902@gmail.com - I love meeting fellow developers!**
+
+### ⚡ Fun Fact ⚡
+**I debug my code with a pink rubber duck named Pinky! 🦆💕**
 
 </div>
 
@@ -248,6 +242,6 @@ const currentlyDoing = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=120&section=footer&text=Keep%20coding%20cutely!&fontSize=24&fontColor=FF69B4&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=Keep%20coding%20cutely!&fontSize=24&fontColor=white&animation=fadeIn)
 
 </div>
