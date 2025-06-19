@@ -107,26 +107,56 @@ I specialize in creating **adorable user interfaces** with modern web technologi
 
 <div align="center">
 
+## 🌟 GitHub Profile Highlights 🌟
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThDziii&theme=radical&hide_border=true" width="100%" alt="Profile Details" />
+
+</div>
+
+<div align="center">
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=ThDziii&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15&hide_border=true" alt="GitHub Stats" />
+<img width="32%" src="https://streak-stats.demolab.com?user=ThDziii&theme=radical&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&background=0d1117&border=FF69B4&stroke=FF69B4&currStreakNum=FF1493&sideNums=FF1493&dates=FFB6C1&sideLabels=FF69B4&hide_border=true" alt="GitHub Streak" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThDziii&layout=compact&theme=radical&title_color=FF69B4&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
 ## 📊 GitHub Analytics 📊
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThDziii&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThDziii&theme=radical&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&background=0d1117&border=FF69B4&border_radius=15" alt="GitHub Streak" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💖 ThDziii's GitHub Stats 💖
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThDziii&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" width="100%" alt="Detailed GitHub Stats" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🌸 Most Used Languages 🌸
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThDziii&theme=radical&title_color=FF69B4&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15&layout=default&langs_count=8" width="100%" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThDziii&layout=compact&theme=radical&title_color=FF69B4&text_color=FF1493&bg_color=0d1117&border_color=FF69B4&border_radius=15" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThDziii&theme=tokyo-night&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThDziii&theme=tokyo-night&bg_color=0d1117&color=FF69B4&line=FF1493&point=FFB6C1&area=true&area_color=FF69B4&border_color=FF69B4&radius=15&custom_title=💕%20Contribution%20Activity%20💕" width="100%" alt="Contribution Graph"/>
 
 </div>
 
